@@ -1,4 +1,4 @@
-FROM redis:3.2.3
+FROM redis:6.2.5
 MAINTAINER Yesu Aggarwal (yesuagg@gmail.com)
 
 ADD docker-entrypoint.sh /
